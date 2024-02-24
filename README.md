@@ -3,7 +3,7 @@
 >  my name is Ashley!
 >  owner of Baked Designs
 
-** CONTACT ME **
+**CONTACT ME**
 
 [MY SERVER](https://discord.gg/nnFh7k63Jn)
 
