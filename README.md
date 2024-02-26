@@ -2,6 +2,8 @@
 
 ---
 
+## about me 
+
 >  my name is Ashley! ✨️
 
 
