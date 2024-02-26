@@ -4,14 +4,13 @@
 >  owner of Baked Designs
 
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>**MY LINKS**</summary>
 
-YOUR TABLE
+[MY SERVER](https://discord.gg/nnFh7k63Jn)
 
 </details open>
 
 
-[MY SERVER](https://discord.gg/nnFh7k63Jn)
 
 *******
 
