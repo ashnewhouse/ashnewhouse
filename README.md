@@ -3,7 +3,7 @@
 ---
 
 >  my name is Ashley! ✨️
->  owner of Baked Designs
+
 
 --- 
 
