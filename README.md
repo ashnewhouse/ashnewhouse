@@ -3,7 +3,13 @@
 >  my name is Ashley!
 >  owner of Baked Designs
 
-**CONTACT ME**
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details open>
+
 
 [MY SERVER](https://discord.gg/nnFh7k63Jn)
 
